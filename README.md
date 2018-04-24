@@ -29,12 +29,26 @@ Aby zostać zakwalifikowanym do udziału w warsztacie należy wykonać samodziel
     * pętle - <https://youtu.be/6iF8Xb7Z3wQ>
     * definiowanie funkcji - <https://youtu.be/9Os0o3wzS_I>
 
-3. odpowiedz na pytania zamieszczone w krótim teście (10 pytań) -  
-    [**kliknij tutaj aby przejść na stronę z testem**](https://www.surveymonkey.com/r/HRKPKD3)  
+3. odpowiedz na pytania zamieszczone w krótim teście (10 pytań) - link znajduje się poniżej.
 
     **UWAGA!**  
     * **Test możesz wypełnić tylko raz!**
     * Zmieniać swoje odpowiedzi możesz do momentu zaakceptowania całego testu
     * Po wysłaniu testu, zmiana odpowiedzi nie będzie możliwa
+    * Wypełnienie testu nie gwarantuje udziału w warsztacie
+    * Osoby zakwalifikowane do udziału w warsztacie zostaną o tym poinformowane
+    * Osoby zakwalifikowane muszą potwierdzić udział w warsztacie!!!
     * Data zakończenia testu to godzina 23:59 w dniu **13 maja 2018**.
     * **Zastrzegamy sobie prawo do wcześniejszego zamknięcia testu**
+
+## Test
+
+Jeśli jesteś gotowa/y, przejdź na stronę testu klikając na poniższy odnośnik, lub skanując kod QR.
+
+### Link do testu
+
+[**Test kwalifikacyjny na warsztat**](https://www.surveymonkey.com/r/HRKPKD3) <https://www.surveymonkey.com/r/HRKPKD3>
+
+### Kod QR do testu
+
+![Kod QR](qr_test.png)
