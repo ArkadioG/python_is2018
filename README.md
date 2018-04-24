@@ -19,6 +19,7 @@ Aby zostać zakwalifikowanym do udziału w warsztacie należy wykonać samodziel
         * [Visual Studio Code](https://code.visualstudio.com/)
         * [Atom](https://atom.io/)
         * [Sublime Text](https://www.sublimetext.com/)
+
 2. wykonaj samodzielnie ćwiczenia zaprezentowane w poniższych filmikach (filmy po angielsku!):
     * praca z tekstem - <https://youtu.be/k9TUPpGqYTo>
     * liczby całkowite i zmiennoprzecinkowe - <https://youtu.be/khKv-8q7YmY>
@@ -27,5 +28,13 @@ Aby zostać zakwalifikowanym do udziału w warsztacie należy wykonać samodziel
     * instrukcje warunkowe - <https://youtu.be/DZwmZ8Usvnk>
     * pętle - <https://youtu.be/6iF8Xb7Z3wQ>
     * definiowanie funkcji - <https://youtu.be/9Os0o3wzS_I>
-3. odpowiedz na pytania zamieszczone w krótim teście: 
-    testmoz.com
+
+3. odpowiedz na pytania zamieszczone w krótim teście (10 pytań) -  
+    [**kliknij tutaj aby przejść na stronę z testem**](https://www.surveymonkey.com/r/HRKPKD3)  
+
+    **UWAGA!**  
+    * **Test możesz wypełnić tylko raz!**
+    * Zmieniać swoje odpowiedzi możesz do momentu zaakceptowania całego testu
+    * Po wysłaniu testu, zmiana odpowiedzi nie będzie możliwa
+    * Data zakończenia testu to godzina 23:59 w dniu **13 maja 2018**.
+    * **Zastrzegamy sobie prawo do wcześniejszego zamknięcia testu**
