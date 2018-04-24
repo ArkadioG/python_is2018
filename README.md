@@ -1,6 +1,6 @@
 # infoshare 2018 - Twoja pierwsza aplikacja w Python
 
-warsztat odbędzie się w dniu 23 maj 2018, w godzinach 9:30 - 13:00.
+warsztat odbędzie się w dniu 23 maj 2018, w godzinach 9:30 - 13:00.  
 Szczegóły na stronie: <https://infoshare.pl/is-register/#item2-15>
 
 ## O warsztacie
@@ -47,7 +47,7 @@ Jeśli jesteś gotowa/y, przejdź na stronę testu klikając na poniższy odnoś
 
 ### Link do testu
 
-[**Test kwalifikacyjny na warsztat**](https://www.surveymonkey.com/r/HRKPKD3) <https://www.surveymonkey.com/r/HRKPKD3>
+[**Test kwalifikacyjny na warsztat - https://www.surveymonkey.com/r/HRKPKD3**](https://www.surveymonkey.com/r/HRKPKD3)
 
 ### Kod QR do testu
 
