@@ -1,7 +1,7 @@
-# infoshare 2018 - Twoja pierwsza aplikacja w Python
+# infoshare 2018 - Twoja pierwsza aplikacja w Python - pierwszy termin 
 
-warsztat odbędzie się w dniu 23 maj 2018, w godzinach 9:30 - 13:00.  
-Szczegóły na stronie: <https://infoshare.pl/is-register/#item2-15>
+warsztat odbędzie się w dniu **23 maj 2018, w godzinach 9:30 - 13:00.**  
+Szczegóły na stronie: <https://infoshare.pl/is-register/#item-16>
 
 ## O warsztacie
 
