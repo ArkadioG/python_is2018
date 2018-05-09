@@ -38,7 +38,7 @@ Aby zostać zakwalifikowanym do udziału w warsztacie należy wykonać samodziel
     * Wypełnienie testu nie gwarantuje udziału w warsztacie
     * Osoby zakwalifikowane do udziału w warsztacie zostaną o tym poinformowane
     * Osoby zakwalifikowane muszą potwierdzić udział w warsztacie!!!
-    * Data zakończenia testu to godzina 23:59 w dniu **13 maja 2018**.
+    * Data zakończenia testu to godzina 23:59 w dniu **15 maja 2018**.
     * **Zastrzegamy sobie prawo do wcześniejszego zamknięcia testu**
 
 ## Test
